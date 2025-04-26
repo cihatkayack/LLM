@@ -28,7 +28,7 @@ This repository provides a step-by-step, practical guide to understanding and wo
 - **Benchmark Evaluation**
   - Evaluating LLM outputs using ROUGE metrics
 - **Exercises**
-  - Practical exercises and projects to reinforce learning
+  - Several exercises are embedded throughout the notebook to encourage hands-on practice:
     - Exercise 1: Prepare your own text dataset
 
     - Exercise 2: Examine generated text results
